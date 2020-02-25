@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/algo-visualizer/static/css/main.35d5e283.chunk.css",
+    "main.js": "/algo-visualizer/static/js/main.ff36b970.chunk.js",
+    "main.js.map": "/algo-visualizer/static/js/main.ff36b970.chunk.js.map",
+    "runtime-main.js": "/algo-visualizer/static/js/runtime-main.d5b13c1b.js",
+    "runtime-main.js.map": "/algo-visualizer/static/js/runtime-main.d5b13c1b.js.map",
+    "static/css/2.c9bad9e0.chunk.css": "/algo-visualizer/static/css/2.c9bad9e0.chunk.css",
+    "static/js/2.00f27e81.chunk.js": "/algo-visualizer/static/js/2.00f27e81.chunk.js",
+    "static/js/2.00f27e81.chunk.js.map": "/algo-visualizer/static/js/2.00f27e81.chunk.js.map",
+    "index.html": "/algo-visualizer/index.html",
+    "precache-manifest.17d526ea28b761135d0a65653c639817.js": "/algo-visualizer/precache-manifest.17d526ea28b761135d0a65653c639817.js",
+    "service-worker.js": "/algo-visualizer/service-worker.js",
+    "static/css/2.c9bad9e0.chunk.css.map": "/algo-visualizer/static/css/2.c9bad9e0.chunk.css.map",
+    "static/css/main.35d5e283.chunk.css.map": "/algo-visualizer/static/css/main.35d5e283.chunk.css.map",
+    "static/js/2.00f27e81.chunk.js.LICENSE.txt": "/algo-visualizer/static/js/2.00f27e81.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/algo-visualizer/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5b13c1b.js",
+    "static/css/2.c9bad9e0.chunk.css",
+    "static/js/2.00f27e81.chunk.js",
+    "static/css/main.35d5e283.chunk.css",
+    "static/js/main.ff36b970.chunk.js"
+  ]
+}
